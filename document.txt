@@ -1,0 +1,28 @@
+class MaTran{
+ int A[][];
+ int soDong=soCot;
+ bool ísMax;
+ int giaTri;
+ MaTRan(int n, itn n);
+ KiemTraThang();
+ TinhGiaTri_Her();
+ ...................
+}
+
+
+class BanCo{
+ List<List<picturebox>>........
+ 
+ BanCo(int n, int n);
+ HienThi();
+ Xoa();
+
+}
+
+Class MyTree{
+ tree cayTroChoi;
+ ......
+ Them(MaTran);
+ MaTranCanTim()//// la matran chua trang thai di tôt nhat.
+
+}
